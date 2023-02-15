@@ -9,7 +9,7 @@
         <h1
           class="text-primary display-4 font-weight-bolder d-none d-md-block"
         >
-          NodeX Capital Explorer
+          Genjutsu Explorer
         </h1>
       </div>
     </b-link>
